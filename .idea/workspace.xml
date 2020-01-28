@@ -7,6 +7,7 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Selenide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UI_Tests/OwnerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package.json" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580203218686</updated>
-      <workItem from="1580203221842" duration="341000" />
+      <workItem from="1580203221842" duration="651000" />
     </task>
     <servers />
   </component>

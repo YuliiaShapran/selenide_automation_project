@@ -1,0 +1,6 @@
+.idea/
+target/
+build/
+.allure/
+allure-results/
+Selenide.iml
