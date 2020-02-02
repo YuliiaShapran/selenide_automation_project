@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Simple test" verbose="1" >
+    <test name="One class test" >
+        <classes>
+            <class name="PetclinicHomeworks.UItests.AddNewSpecialtyTests" />
+        </classes>
+    </test>
+
+</suite>
