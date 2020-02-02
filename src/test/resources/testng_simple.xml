@@ -3,7 +3,7 @@
 <suite name="Simple test" verbose="1" >
     <test name="One class test" >
         <classes>
-            <class name="PetclinicHomeworks.UItests.AddNewSpecialtyTests" />
+            <class name="PetclinicHomeworks.UItests.SpecialtyTestJenkins" />
         </classes>
     </test>
 
